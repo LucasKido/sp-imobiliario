@@ -5,3 +5,7 @@ Uma breve análise dos preços dos imóveis em São Paulo, seja de venda ou alug
 Os dados foram obtidos através do Kaggle, segue a baixo os links para cada dataset:<br>
 [São Paulo Real Estate - Sale/Rent - April 2019](https://www.kaggle.com/argonalyst/sao-paulo-real-estate-sale-rent-april-2019)<br>
 [Metros de São Paulo](https://www.kaggle.com/danlessa/geospatial-sao-paulo-crime-database)
+
+## Melhorias
+* Criar um dataset pegando os dados do QuintoAndar, já os dados de treino são de Abril de 2019.
+* Coletar dados atualizados das estações do metro e dados das estações de trem.
